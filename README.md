@@ -1,4 +1,4 @@
-# Ass Scraper 4000
+# Gaius Scraper
 
 No-Code Scrape-to-API platform which lists element using Go/Rod at every step and creates and MD file. Thus makes decision making for an llm both easier and cheaper. Supports **SQLite persistence**, **cron scheduling**, and a retro terminal dashboard. Record browser automations visually, save them as reusable "recipes" (JSON), and serve them as REST API endpoints — all with anti-bot stealth built in.
 
